@@ -54,6 +54,13 @@ nav ul li a{
     transition: 0.5s;
 }
 
+.contect h2{
+    font-size: 100%;
+    color: #fff;
+    font-weight: 600;
+    transition: 0.5s;
+}
+
 .contect h1:hover{
     -webkit-text-stroke: 1px #fff;
     color: transparent;
